@@ -3,8 +3,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
 from sklearn.svm import SVR
 
-#can put matplotlib, pandas, sckit-learn,matplotlib, numpy, tensorflow in resume for this
-
 def svr_train_predict(x_train, y_train, x_test):
 
     scaler_X = StandardScaler()
