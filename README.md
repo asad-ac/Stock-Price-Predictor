@@ -1,4 +1,4 @@
-Stock Price Predictor
+# Stock Price Predictor
 
 Conducted 380 different stocks in the market to train and predict their prices, and accomplished an R2 score higher
 than 95%
